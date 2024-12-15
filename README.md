@@ -1,5 +1,5 @@
 # Simple Feedback Form for Unity
-This is a simple feedback form package that you can implement to gather in-game feedback of your game or application. This uses Google Forms as a way to receive feedback, so it requires some setup on Google Forms. 
+This is a simple feedback form package that you can implement to gather in-game feedback of your game or application. This uses Google Forms as a way to receive feedback, so it requires some setup on [Google Forms](https://docs.google.com/forms/u/0/). 
 <img src="https://github.com/user-attachments/assets/b9b8356d-47c9-4b1e-bb0c-54c376b21f6c" alt="image" style="width:50%; height:auto;">
 
 ## Installation Steps:
