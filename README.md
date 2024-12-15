@@ -3,7 +3,7 @@ This is a simple feedback form package that you can implement to gather in-game 
 <img src="https://github.com/user-attachments/assets/b9b8356d-47c9-4b1e-bb0c-54c376b21f6c" alt="image" style="width:50%; height:auto;">
 
 ## Installation Steps:
-1. Download the package to your project.
+1. Download the package from the [Releases section](https://github.com/luisquid/unity-simple-feedback/releases) of the repository to your project.
 2. In the Simple Feedback Form folder you will find the Simple Feedback Form prefab. Drag it to the first scene of your game.
 3. Inside the Simple Feedback Form you will find the Feedback Form script attahced to the Simple Feedback Canvas where you will need to do some additional setup explained below. 
 
