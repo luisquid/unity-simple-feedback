@@ -1,2 +1,2 @@
 # unity-simple-feedback
-Simple feedback in-game form 
+Simple in-game feedback form 
